@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(76, 75, 75);
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+#about-me {
+  color: white;
+  text-align: center;
+}
+a {
+  color: green;
+}
+section {
+  color: white;
+  text-align: center;
+  line-height: 2;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
